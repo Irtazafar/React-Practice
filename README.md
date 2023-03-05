@@ -26,4 +26,7 @@ After downloading/cloning the repo, you need to run the specific command in your
 # Folder List 
 
 [01: React Forms with Validation](React-Lab_Forms) <br>
-[02: React Theme Switcher](React-Lab_ThemeSwitcher)
+[02: React Theme Switcher](React-Lab_ThemeSwitcher)<br>
+[03: React useState Hook](React-Lab_UseState-Hook) <br>
+[04: React Fetch Data using API](React-Lab_FetchData) <br>
+[05: React Custom Hooks](React-Lab_CustomHooks) <br>
