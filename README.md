@@ -22,3 +22,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm install`
 
 After downloading/cloning the repo, you need to run the specific command in your downloaded folder so that all modules are downloaded.
+
+# Folder List 
+
+[01: React Forms with Validation](React-Lab_Forms)
+[02: React Theme Switcher](React-Lab_ThemeSwitcher)
