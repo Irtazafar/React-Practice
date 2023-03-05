@@ -25,5 +25,5 @@ After downloading/cloning the repo, you need to run the specific command in your
 
 # Folder List 
 
-[01: React Forms with Validation](React-Lab_Forms)
+[01: React Forms with Validation](React-Lab_Forms) <br>
 [02: React Theme Switcher](React-Lab_ThemeSwitcher)
