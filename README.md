@@ -31,3 +31,4 @@ After downloading/cloning the repo, you need to run the specific command in your
 [04: React Fetch Data using API](React-Lab_FetchData) <br>
 [05: React Custom Hooks](React-Lab_CustomHooks) <br>
 [06: React Group Component](React-Lab_GroupComponent) <br>
+[0: React Mouse Position](React-Lab_MousePosition) <br>
